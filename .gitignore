@@ -1,0 +1,3 @@
+# Ignore displays.conf as it is device-specific
+config.d/displays.conf
+colourschemes/*
