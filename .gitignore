@@ -1,3 +1,5 @@
 # Ignore displays.conf as it is device-specific
 config.d/displays.conf
+
+# These are part of a separate repository (https://github.com/rkubosz/base16-sway) so they don't need to be included
 colourschemes/*
