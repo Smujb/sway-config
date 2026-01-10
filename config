@@ -21,7 +21,7 @@ set $term kitty
 # on the original workspace that the command was run on.
 # Recommends: rofi-wayland
 set $rofi_cmd rofi \
-        -terminal '$term'
+        -terminal '$term' -config ~/.config/sway/rofi-config/config.rasi
 # Shows a combined list of the applications with desktop files and
 # executables from PATH.
 # Kill wofi if already running, run it if it isn't
