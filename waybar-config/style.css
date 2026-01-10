@@ -52,6 +52,7 @@ button:hover {
 #idle_inhibitor:hover,
 #idle_inhibitor.activated:hover,
 #custom-do-not-disturb:hover,
+#power-profiles-daemon:hover,
 #custom-do-not-disturb.activated:hover,
 #pulseaudio:hover {
     background-color: #c4a7e7;
@@ -151,25 +152,11 @@ button:hover {
     padding-right: 15px;
 }
 
-#power-profiles-daemon.performance {
-    background-color: #f53c3c;
-    color: #ffffff;
-}
-
-#power-profiles-daemon.balanced {
-    background-color: #2980b9;
-    color: #ffffff;
-}
-
-#power-profiles-daemon.power-saver {
-    background-color: #2ecc71;
-    color: #000000;
-}
-
 label:focus {
     background-color: #000000;
 }
 
+#temperature,
 #cpu,
 #memory {
     background-color: #56526e;
@@ -177,10 +164,6 @@ label:focus {
 
 #disk {
     background-color: #964B00;
-}
-
-#backlight {
-    background-color: #90b1b1;
 }
 
 #network {
@@ -191,6 +174,7 @@ label:focus {
     background-color: #f53c3c;
 }
 
+#power-profiles-daemon,
 #pulseaudio {
     background-color: #393552;
     color: #ffffff;
@@ -224,14 +208,11 @@ label:focus {
     background-color: #ffa000;
 }
 
-#temperature {
-    background-color: #f0932b;
-}
-
 #temperature.critical {
     background-color: #eb4d4b;
 }
 
+#backlight,
 #tray,
 #clock {
     background-color: #64727D;

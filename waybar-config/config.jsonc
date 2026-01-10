@@ -27,9 +27,9 @@
         "temperature",
         "backlight",
 //        "sway/language",
-        "battery",
         "clock",
-        "tray"
+        "tray",
+	"battery"
     ],
     // Modules configuration
     // "sway/workspaces": {
