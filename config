@@ -30,6 +30,9 @@ set $menu pgrep rofi >/dev/null 2>&1 && killall rofi || $rofi_cmd -show combi -c
 # Themes are from https://github.com/rkubosz/base16-sway, not included in this repository
 set $colourscheme base16-rose-pine-moon.config
 
+# Wallpaper with azote
+exec ~/.azotebg
+
 ### Idle configuration
 #
 # Example configuration:
