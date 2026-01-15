@@ -64,6 +64,8 @@ input * {
     xkb_layout gb
 }
 
+mouse_warping container
+
 ### Key bindings
 #
 # Basics:
