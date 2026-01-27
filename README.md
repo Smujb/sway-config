@@ -8,6 +8,8 @@ This configuration is designed to be used on Fedora Linux and its derivatives al
 
 - clipman, wl-paste
 
+- wlogout
+
 - [swaywsr](https://github.com/pedroscaff/swaywsr) (build from source, install location should be ~/dev/swaywsr/ for this config)
 
 - [still](https://github.com/faergeek/still) (build from source, install location should be ~/dev/swaywsr/ for this config)

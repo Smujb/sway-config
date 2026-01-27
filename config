@@ -90,9 +90,8 @@ mouse_warping container
     # Reload the configuration file
     bindsym $mod+Shift+c reload
 
-    # Exit sway (logs you out of your Wayland session)
-    bindsym $mod+Shift+e exec wlogout
-    # bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+    # Show wlogout
+    bindsym $mod+Shift+e exec pgrep wlogout >/dev/null 2>&1 && killall wlogout || wlogout
 
     # Lock screen
     bindsym $mod+l exec swaylock
