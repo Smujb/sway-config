@@ -1,0 +1,18 @@
+[icons]
+
+[aliases]
+"org.gnome.Evolution" = "evolution"
+"org.coolercontrol.CoolerControl" = "coolercontrol"
+"net.davidotek.pupgui2" = "protonup-qt"
+"org.pulseaudio.pavucontrol" = "volume control"
+"com.obsproject.Studio" = "obs studio"
+"net.lutris.Lutris" = "lutris"
+"org.prismlauncher.PrismLauncher" = "prism launcher"
+"io.github.ilya_zlobintsev.LACT" = "lact"
+"org.mozilla.Thunderbird" = "thunderbird"
+
+[general]
+separator = "  "
+
+[options]
+remove-duplicates = true
