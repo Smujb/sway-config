@@ -10,6 +10,21 @@
 "org.prismlauncher.PrismLauncher" = "prism launcher"
 "io.github.ilya_zlobintsev.LACT" = "lact"
 "org.mozilla.Thunderbird" = "thunderbird"
+"com.hypixel.HytaleLauncher" = "hytale launcher"
+"io.github.kolunmi.Bazaar" = "bazaar"
+"com.usebottles.bottles" = "bottles"
+"org.chromium.Chromium" = "chromium"
+"com.ranfdev.DistroShelf" = "distroshelf"
+"com.github.tchx84.Flatseal" = "flatseal"
+"it.mijorus.gearlever" = "gear lever"
+"pw.mmk.OpenFreebuds" = "openfreebuds"
+"org.openrgb.OpenRGB" = "openrgb"
+"com.github.IsmaelMartinez.teams_for_linux" = "teams"
+"proton.vpn.app.gtk" = "proton vpn"
+"com.vysp3r.ProtonPlus" = "protonplus"
+"org.gnome.Showtime" = "video player"
+"org.gnome.gitlab.YaLTeR.VideoTrimmer" = "video trimmer"
+
 
 [general]
 separator = "  "
