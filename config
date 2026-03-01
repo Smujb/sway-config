@@ -26,6 +26,7 @@ set $rofi_cmd rofi \
 # executables from PATH.
 # Kill wofi if already running, run it if it isn't
 set $menu pgrep rofi >/dev/null 2>&1 && killall rofi || $rofi_cmd -show combi -combi-modes drun#run -modes combi
+
 # Set colour scheme (~/.config/sway/colourschemes/)
 # Themes are from https://github.com/rkubosz/base16-sway, not included in this repository
 set $colourscheme base16-rose-pine-moon.config
