@@ -61,10 +61,6 @@ exec ~/.azotebg
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
 
-input * {
-    xkb_layout gb
-}
-
 # Nicer names for mouse buttons
 set $mouse_left button1
 set $mouse_right button3
