@@ -10,13 +10,15 @@ This configuration is designed to be used on Fedora Linux and its derivatives al
 
 - wlogout
 
-- [swaywsr](https://github.com/pedroscaff/swaywsr) (build from source, install location should be ~/dev/swaywsr/ for this config)
+- [swaywsr](https://github.com/pedroscaff/swaywsr) (build from source)
 
-- [still](https://github.com/faergeek/still) (build from source, install location should be ~/dev/swaywsr/ for this config)
+- [autotiling-rs](https://github.com/ammgws/autotiling-rs) (build from source)
+
+- [still](https://github.com/faergeek/still) (build from source)
 
 - [azote](https://github.com/nwg-piotr/azote) (there's a copr repo for it)
 
-`sudo dnf install meson pixman-devel wayland-devel wayland-protocols-devel` installs the requirements for still
+sudo dnf install meson pixman-devel wayland-devel wayland-protocols-devel` installs the requirements for still
 
 Note that my config does not include any global GTK or QT theming because I rely on qt6ct for QT themes and nwg-look (requires copr repo) for GTK themes.
 
