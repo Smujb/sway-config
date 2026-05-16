@@ -7,7 +7,7 @@
     selected-urgent-foreground:  var(urgent-foreground);
     alternate-active-foreground: var(active-foreground);
     selected-active-background:  var(gruvbox-dark-yellow-light);
-    gruvbox-dark-bg1:            #2a273f;
+    gruvbox-dark-bg1:            #232136;
     highlight:                   bold italic ;
     normal-foreground:           var(foreground);
     background:                  var(gruvbox-dark-bg0-soft);
@@ -28,7 +28,7 @@
     alternate-active-background: var(active-background);
     active-background:           var(gruvbox-dark-yellow-dark);
     gruvbox-dark-yellow-dark:    #f6c177;
-    gruvbox-dark-bg0-soft:       #393552;
+    gruvbox-dark-bg0-soft:       #232136;
     gruvbox-dark-yellow-light:   #f6c177;
     background-color:            var(background);
     normal-background:           var(background);
