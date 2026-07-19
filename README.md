@@ -1,3 +1,6 @@
+>[!WARNING]
+>This project has been archived, I now use chezmoi for my [dotfiles](https://github.com/Smujb/dotfiles)
+
 # My Personal Sway Config Files
 
 This configuration is designed to be used on Fedora Linux and its derivatives alongside the `sway-config-fedora` package (the default installation on the sway spin). This will also install most of the other required utilities (eg Grim). Additional packages:
